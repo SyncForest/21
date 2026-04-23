@@ -547,3 +547,27 @@ export default botConfig;
 
 
 
+const { ActionRowBuilder, StringSelectMenuBuilder } = require('discord.js');
+
+const menu = new StringSelectMenuBuilder()
+  .setCustomId('ticket_menu')
+  .setPlaceholder('Select a ticket type')
+  .addOptions([
+    {
+      label: 'Support',
+      description: 'Get help',
+      value: 'support',
+    },
+    {
+      label: 'Report',
+      description: 'Report a user',
+      value: 'report',
+    },
+  ]);
+
+const row = new ActionRowBuilder().addComponents(menu);
+
+channel.send({
+  content: 'Open a ticket using the dropdown:',
+  components: [row],
+});
