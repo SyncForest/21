@@ -1,3 +1,143 @@
+Navy21
+navy21.
+ROBLOX
+
+Navy21 — 18:32
+@I Blend My Boba you hear me
+I Blend My Boba — 18:32
+mb
+Navy21 — 18:32
+yea
+have you asked chatgpt
+for dropdown
+I Blend My Boba — 18:32
+I have something due tonight Im working on...
+Navy21 — 18:32
+oh
+well fuck you
+I Blend My Boba — 18:32
+wait nvm
+it was due 2 weeks ago
+Navy21 — 18:33
+jk
+I Blend My Boba — 18:33
+🥱
+god my grade is so bad rn
+Navy21 — 18:33
+that feels like betrayal
+I Blend My Boba — 18:33
+dw trey says it every morning
+Navy21 — 18:33
+💀
+I Blend My Boba — 18:35
+btw this is the song Im using for it
+Navy21 — 18:35
+mhm
+tuff
+Image
+nice onme trey
+I Blend My Boba — 18:36
+😭
+what placement you looking for ?
+diamond?
+Navy21 — 18:36
+idk
+I Blend My Boba — 18:37
+if we wanna be first archnem duo we gotta stay up for 10 hours after the update comes out
+Navy21 — 18:38
+ong
+am not using kcia for it
+or velocirtyt
+it fnna crash
+soooooo
+I Blend My Boba — 18:38
+you gonna be legit..
+back to the prime chase
+well everyday is your prime
+Navy21 — 18:40
+can you figure out dropdown
+21
+APP
+ — 18:40
+❌ Error
+Calculation Error
+Today at 18:40
+I Blend My Boba — 18:40
+isn't it alreay there ?
+21
+APP
+ — 18:41
+❌ Error
+Calculation Error
+Today at 18:41
+Navy21 — 18:41
+brp
+21
+APP
+ — 18:41
+❌ Error
+Calculation Error
+Today at 18:41
+I Blend My Boba — 18:41
+fk
+uh
+wrong one
+21
+APP
+ — 18:41
+Compatibility: 94%
+
+█████████░
+
+A perfect match! Get the wedding bells ready!
+💖 Ship Score: 10 vs 20
+Today at 18:41
+I Blend My Boba — 18:41
+wowowowow
+who are the 2 ?
+21
+APP
+ — 18:41
+Expression: 10 + 10
+Result: 20
+
+Use the buttons below to perform operations with the result.
+🧮 Calculation Result
+Today at 18:41
+Navy21 — 18:41
+oh nopw that wiorks
+Navy21 — 18:42
+idk
+@I Blend My Boba
+21
+APP
+ — 18:46
+❌ Error
+Not Found
+Today at 18:46
+I Blend My Boba — 18:47
+sorry my sister being annoying asl
+what you need ?
+Navy21 — 18:47
+did you use the ticket system
+it not workin
+Navy21 — 18:47
+what she doing
+I Blend My Boba — 18:47
+whats the command
+I Blend My Boba — 18:47
+asking me if I want something to eat while I got a plate in my hand
+Navy21 — 18:54
+import { logger } from '../utils/logger.js';
+
+
+export const botConfig = {
+  // =========================
+  // BOT PRESENCE (what users see under the bot name)
+
+message.txt
+16 KB
+﻿
 import { logger } from '../utils/logger.js';
 
 
@@ -543,7 +683,3 @@ export function getRandomColor() {
 }
 
 export default botConfig;
-
-
-
-
